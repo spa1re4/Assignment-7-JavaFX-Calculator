@@ -30,5 +30,5 @@ Press an arithmetic operation button (+, -, *, /).
 Enter the second number.
 Press = to calculate the result.
 The "AC" button resets the display for a new calculation.
-```![Снимок экрана 2024-10-22 205503](https://github.com/user-attachments/assets/b82ddf92-385f-4a27-8921-f35e2319cf57)
+
 
