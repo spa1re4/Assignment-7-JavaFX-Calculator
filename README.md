@@ -31,15 +31,10 @@ Enter the second number.
 Press = to calculate the result.
 The "AC" button resets the display for a new calculation.
 ```
-this is a simple calculation example ![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/e95e8985bc891723d4bcd9a0d4041459e3877972/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20205503.png)
-
-
-example with calculation of negative numbers ![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/79accc5e7258bfb3b6e8bb55927d573a95b1db55/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20205516.png)
-
-
-example with decimal calculation ![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/2ca5770656b8d93e3793b29cbf4c21e35f3d1a6f/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20205530.png)
-
-
-example with error output for example when dividing by 0 ![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/2ca86a99097528ad60a628431395629354d9a1f8/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20205545.png)
+![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/f0d49ba5b42ca91ff787756bf2f9e6e73a7c0b38/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20212430.png)
+![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/9f9c352d6692717d6a1526b883cdaf71d0c9749e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20212446.png)
+![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/cfd0dc4c7691d8888b249bab3d430a3f9e7e1e24/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20212457.png)
+![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/dcf0b5e946acb5ccae408a569fe26f811ae4f517/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20212621.png)
+![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/884479a9ffcc96a704363c702c830fc97cbe14d2/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20212644.png)
 
 
