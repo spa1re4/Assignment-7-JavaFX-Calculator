@@ -10,7 +10,7 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="625.0" prefWidth="425.0" style="-fx-background-color: #D3D3D3;" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.calculator.HelloController">
    <children>
-      <TextField fx:id="txt_result" alignment="CENTER_RIGHT" layoutX="21.0" layoutY="45.0" prefHeight="87.0" prefWidth="386.0" style="-fx-background-color: #E0FFFF;">
+      <TextField fx:id="txt_result" alignment="CENTER_RIGHT" layoutX="19.0" layoutY="28.0" prefHeight="87.0" prefWidth="386.0" style="-fx-background-color: #E0FFFF;">
          <font>
             <Font size="22.0" />
          </font></TextField>
@@ -110,5 +110,10 @@
             </Button>
          </children>
       </GridPane>
+      <Button fx:id="clear" layoutX="245.0" layoutY="123.0" mnemonicParsing="false" onAction="#clear" prefHeight="43.0" prefWidth="160.0" style="-fx-background-color: #e1e5ee;" text="AC">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Button>
    </children>
 </AnchorPane>
