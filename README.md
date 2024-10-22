@@ -14,3 +14,18 @@ When an arithmetic operation (e.g., +) is selected, the first number is saved, a
 Pressing the = button performs the calculation and displays the result.
 If an invalid operation is performed, such as division by zero, the calculator displays "ERROR."
 The "AC" button resets the input for a new calculation.
+calculator Class:
+
+The calculator class handles the logic for performing arithmetic operations: addition, subtraction, multiplication, and division.
+It takes two numbers (operands) and an operator (the arithmetic action) to perform calculations.
+If an error occurs (e.g., division by zero), the calculator returns an error message.
+Technologies Used:
+Java: The main language used to build the application.
+JavaFX: The framework for creating the graphical interface.
+FXML: Used for designing the layout of the calculator (if applicable).
+How the Calculator Works:
+Use the number buttons to input numbers.
+Press an arithmetic operation button (+, -, *, /).
+Enter the second number.
+Press = to calculate the result.
+The "AC" button resets the display for a new calculation.
