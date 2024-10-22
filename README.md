@@ -1,3 +1,4 @@
+```
 # Assignment-7-JavaFX-Calculator
 This project is a simple calculator built using JavaFX for the graphical user interface (GUI) and Java to handle arithmetic operations.
 
@@ -29,3 +30,4 @@ Press an arithmetic operation button (+, -, *, /).
 Enter the second number.
 Press = to calculate the result.
 The "AC" button resets the display for a new calculation.
+```
