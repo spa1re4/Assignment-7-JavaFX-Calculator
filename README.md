@@ -30,7 +30,7 @@ Press an arithmetic operation button (+, -, *, /).
 Enter the second number.
 Press = to calculate the result.
 The "AC" button resets the display for a new calculation.
-```
+
 this is a simple calculation example
 ![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/e95e8985bc891723d4bcd9a0d4041459e3877972/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20205503.png)
 
@@ -42,7 +42,8 @@ example with calculation of negative numbers
 example with decimal calculation
 ![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/2ca5770656b8d93e3793b29cbf4c21e35f3d1a6f/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20205530.png)
 
+
 example with error output for example when dividing by 0
 ![Image Alt](https://github.com/spa1re4/Assignment-7-JavaFX-Calculator/blob/2ca86a99097528ad60a628431395629354d9a1f8/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-22%20205545.png)
-
+```
 
